@@ -1,2 +1,2 @@
-# First-Flask-Blog
-Creating my first blog using Flask Module
+# Simple Todo Web app Using Flask
+Creating a todo web app using Flask Module
